@@ -1,15 +1,20 @@
 <!doctype html>
 <html>
-    <head><head>
+
+<head>
+
+    <head>
         <title>tables</title>
-        <body>
-<table border="2">
-    <tr>
-        <th>Udaiveer</th>
-        <th>Nirvish</th>
-</tr>
-<td>Grade 8</td>
-<td>Grade 8</td>
-</table>
-        </body>
-        </html>
+
+    <body>
+        <table border="2">
+            <tr>
+                <th>Lion</th>
+                <th>Shark</th>
+            </tr>
+            <td>Land animal</td>
+            <td>Aquatic animal</td>
+        </table>
+    </body>
+
+</html>
