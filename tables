@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+    <head><head>
+        <title>tables</title>
+        <body>
+<table border="2">
+    <tr>
+        <th>Udaiveer</th>
+        <th>Nirvish</th>
+</tr>
+<td>Grade 8</td>
+<td>Grade 8</td>
+</table>
+        </body>
+        </html>
