@@ -1,10 +1,17 @@
 <!doctype html>
 <html>
-    <head></head>
-        <title>suncity</title>
-        <body>
-            Suncity School, one of the best CBSE schools in Gurgaon, is spread over five and a half acres of land, nestles against
-            the picturesque Aravalis highlighting the perfect balance between its state-of-the-art infrastructure and the serenity
-            of the surrounding landscape. This CBSE school in Gurgaon is known for its modern approach to education, offering
-            students world-class facilities and a nurturing environment.
-            </body></html>
+
+<head></head>
+<title>suncity</title>
+
+<body>
+    Suncity School, one of the best CBSE schools in Gurgaon, is spread over five and a half acres of land, nestles
+    against
+    the picturesque Aravalis highlighting the perfect balance between its state-of-the-art infrastructure and the
+    serenity
+    of the surrounding landscape. This CBSE school in Gurgaon is known for its modern approach to education, offering
+    students world-class facilities and a nurturing environment.
+    <img src="C:\Users\Lenovo\Downloads\suncity.webp" </img>
+</body>
+
+</html>
