@@ -1,0 +1,5 @@
+body{background-color: grey;}
+h1:hover{color:aliceblue}
+ul>li{font-family: Arial, Helvetica, sans-serif;}
+ul li:nth-child(3){background-color: aliceblue;}
+p::first-letter{font-size: 200%; color: aliceblue;}
