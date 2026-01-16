@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+    <style>
+        .row {
+            margin-bottom: 15px;
+            border: 1px solid #ddd;
+        }
+
+        .box-1 {
+            background-color: #ffeeba;
+        }
+
+        .box-2 {
+            background-color: #b8daff;
+        }
+
+        .box-3 {
+            background-color: #c3e6cb;
+        }
+
+        div[class^="col"] {
+            padding-top: 10px;
+            padding-bottom: 10px;
+            border: 1px solid rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+    </style>
+    </head>
+    <body>
+        <div class="container">
+            <h3>1. Equal Width (Auto-Layout)</h3>
+            <p>The <code>.col</code> class automatically divides space equally.</p>
+            <div class="row">
+                <div class="col box-1">Column 1</div>
+                <div class="col box-1">Column 2</div>
+                <div class="col box-1">Column 3</div>
+            </div>
+    
+            <h3>2. Responsive Breakpoints</h3>
+            <p>Resize browser. Full width on mobile, split columns on Desktop.</p>
+            <div class="row">
+                <div class="col-12 col-md-6 box-2">
+                    .col-12 .col-md-6
+                </div>
+                <div class="col-12 col-md-6 box-2">
+                    .col-12 .col-md-6
+                </div>
+            </div>
+    
+            <h3>3. Mixed Sizes</h3>
+            <p>Different widths for different screens.</p>
+            <div class="row">
+                <div class="col-6 col-lg-4 box-3">.col-6 .col-lg-4</div>
+                <div class="col-6 col-lg-8 box-3">.col-6 .col-lg-8</div>
+            </div>
+            <div class="container-fluid">
+            <h3>4. fluid container </h3>
+            <p>this container spans the full width of the viewport</p>
+            </div>
+            <div class="row">
+            <div class="col-lg-4 box-1">.col-lg-4</div></div>
+            <div class="col-lg-4 box-1">.col-lg-4</div>
+            </div></div></body>
